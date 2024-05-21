@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/imaciej10/webpack-template#readme",
   "devDependencies": {
+    "@babel/cli": "^7.24.5",
     "@babel/core": "^7.24.5",
+    "@babel/plugin-transform-arrow-functions": "^7.24.1",
     "@babel/preset-env": "^7.24.5",
     "@eslint/js": "^9.2.0",
     "babel-cli": "^6.26.0",
